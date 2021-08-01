@@ -8,4 +8,4 @@
 SardinBoy/SardinBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I have a problem when i join twiiter true Steam and counterstrike. It canges where ABC arives when i write. 
+Jeg har et problem med at skriften når jeg kjører twiiter gjennom steam. Bokstavene og twiiter fungerer ikke. Har også problemmer med å kjøre counter strike uten at det lager og kommer mange hendelser som ikke har noe med spillet
