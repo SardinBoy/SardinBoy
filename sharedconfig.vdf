@@ -1,0 +1,83 @@
+"UserRoamingConfigStore"
+{
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+		"WebRecent0_URL"		"https://blog.counter-strike.net/da/index.php/2019/07/25010/"
+		"WebRecent0_Name"		"Counter-Strike: Global Offensive » A Learning Environment"
+		"WebFrequent0_URL"		"https://help.steampowered.com/no/wizard/HelpWithGame/?appid=730"
+		"WebFrequent0_Name"		"Steams kundestøtte - Counter-Strike: Global Offensive"
+		"WebFrequent0_Access"		"3"
+		"WebRecent1_URL"		"https://www.youtube.com/c/indi1337"
+		"WebRecent1_Name"		"YouTube"
+		"WebFrequent1_URL"		"https://www.rockpapershotgun.com/privacy/"
+		"WebFrequent1_Name"		"Privacy Policy | Rock Paper Shotgun"
+		"WebFrequent1_Access"		"1"
+		"WebRecent2_URL"		"https://steamcommunity.com/id/lilcsgovert"
+		"WebRecent2_Name"		"Steam-samfunn :: aug nerf"
+		"WebFrequent2_URL"		"https://twitter.com/"
+		"WebFrequent2_Name"		"Twitter. Det er det som skjer."
+		"WebFrequent2_Access"		"1"
+		"WebRecent3_URL"		"https://twitter.com/"
+		"WebRecent3_Name"		"Twitter. Det er det som skjer."
+		"WebFrequent3_URL"		"https://steamcommunity.com/id/lilcsgovert"
+		"WebFrequent3_Name"		"Steam-samfunn :: aug nerf"
+		"WebFrequent3_Access"		"1"
+		"WebRecent4_URL"		"https://www.rockpapershotgun.com/privacy/"
+		"WebRecent4_Name"		"Privacy Policy | Rock Paper Shotgun"
+		"WebFrequent4_URL"		"https://www.youtube.com/c/indi1337"
+		"WebFrequent4_Name"		"YouTube"
+		"WebFrequent4_Access"		"1"
+		"WebRecent5_URL"		"https://www.google.com/"
+		"WebRecent5_Name"		"Google"
+		"WebFrequent5_URL"		"https://blog.counter-strike.net/da/index.php/2019/07/25010/"
+		"WebFrequent5_Name"		"Counter-Strike: Global Offensive » A Learning Environment"
+		"WebFrequent5_Access"		"1"
+		"WebFav5_URL"		"http://error/"
+		"WebFav5_Name"		"Feil"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SteamDefaultDialog"		"#app_store"
+				"Apps"
+				{
+					"730"
+					{
+						"cloudenabled"		"0"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+				}
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+				"SurveyDate"		"2019-07-16"
+				"SurveyDateVersion"		"-3732606383961393856"
+				"cloudenabled"		"1"
+				"ShowScreenshotManager"		"0"
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.730"
+		{
+			"rgPromptDismissals"		"4"
+			"bWasAskedToRevise"		"1"
+		}
+	}
+}
