@@ -2,12 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to rCan be reached at +4794436142 or Jorgen9braathen@gmail.com
-Not sure what works or not so uploaded alot of files.
-Any direcsion on witchs so i could upload them would be most precitedeach me ...
-
+- 📫 How to rCan be reached at +4794436142 or Jorgen9braathen@gmail.com Ikke sikker på hvilken filer man skal laste opp. så alle tips mot tas med takk 
 <!---
 SardinBoy/SardinBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Jeg har et problem med at skriften når jeg kjører twiiter gjennom "steamCS-GO css". Bokstavene og twiiter fungerer ikke. Har også problemmer med å kjøre counter strike uten at det lager og kommer mange hendelser som ikke har noe med spillet
+Jeg har et problem med at skriften når jeg kjører twiiter gjennom "steamCS-GO css". Bokstavene og twiiter fungerer ikke. Har også problemmer med å kjøre counter strike uten at det lager og kommer mange hendelser som ikke har noe med spillet. Spillet har ikke fungert siden det kom ut, anner ikke hvorfor, har også masse script filer jeg ikke får delited
