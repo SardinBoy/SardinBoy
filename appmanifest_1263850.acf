@@ -1,0 +1,38 @@
+"AppState"
+{
+	"appid"		"1263850"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Football Manager 2021"
+	"StateFlags"		"4"
+	"installdir"		"Football Manager 2021"
+	"LastUpdated"		"1629731573"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"5963343217"
+	"buildid"		"6682909"
+	"LastOwner"		"76561198032386477"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1263851"
+		{
+			"manifest"		"8688042465324605174"
+			"size"		"5349690108"
+		}
+		"1263852"
+		{
+			"manifest"		"2864175955053813811"
+			"size"		"613656229"
+		}
+	}
+	"UserConfig"
+	{
+		"language"		"norwegian"
+	}
+}

@@ -1,0 +1,43 @@
+"AppState"
+{
+	"appid"		"70"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Half-Life"
+	"StateFlags"		"68"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1630512322"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"474154485"
+	"buildid"		"5433873"
+	"LastOwner"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1"
+		{
+			"manifest"		"5928322771446233610"
+			"size"		"429833890"
+		}
+		"3"
+		{
+			"manifest"		"8096513071444961518"
+			"size"		"895434"
+		}
+		"2"
+		{
+			"manifest"		"2139852524811213490"
+			"size"		"43425161"
+		}
+	}
+	"UserConfig"
+	{
+		"betakey"		"public"
+	}
+}
